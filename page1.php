@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Ejemplo</title>
+        <title>Aprendiendo PHP</title>
     </head>
     <body>
 
